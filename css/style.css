@@ -1,0 +1,40 @@
+/*body{ background-color: purple;}*/
+
+body { overflow-x: hidden; }
+
+.cadasto_usuario  { padding: 20px; 
+
+background-color: rgba(0, 0, 0, 0.7);
+background: rgba(0, 0, 0, 0.7);
+color: rgba(0, 0, 0, 0.7);
+    }
+
+    .cadasto_usuario , .well{
+
+
+    /*border:double 5px #de7403;*/
+    -moz-border-radius-topleft: 45px;
+    -moz-border-radius-topright:45px;
+    -moz-border-radius-bottomleft:5px;
+    -moz-border-radius-bottomright:2px;
+    -webkit-border-top-left-radius:45px;
+    -webkit-border-top-right-radius:45px;
+    -webkit-border-bottom-left-radius:5px;
+    -webkit-border-bottom-right-radius:2px;
+    border-top-left-radius:45px;
+    border-top-right-radius:45px;
+    border-bottom-left-radius:5px;
+    border-bottom-right-radius:2px;
+
+}
+
+.baner{height: 60px; background-color: black;}
+.navbar-header ul{padding: 10px; margin-left: 50px;}
+.navbar-header ul li{float: left; border-right: 1px grey solid; }
+.navbar-header ul li a{ padding: 15px; }
+.navbar-header ul .ultimo{border-right: 0px grey solid;}
+footer{height: 60px; background-color: black; margin-top:20px; width:100%;}
+.black{ background-color: black; color: white;}
+.black th{border: 1px white solid; text-align: center;}
+.blue{text-align: center;}
+.lag_table_editar{min-width: 145px; max-width: 150px;}
